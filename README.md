@@ -145,3 +145,4 @@ npm run preview
 - **Asset Hygiene:** Heavy `node_modules` and transient lock files are excluded from version control via `.gitignore`.
 - **Strict Linting:** ESLint 9 configuration enforcing React Hooks and refresh safety rules.
 - **Continuous Validation:** Standalone test suite ensuring pricing logic and catalog categories never fail at runtime.
+

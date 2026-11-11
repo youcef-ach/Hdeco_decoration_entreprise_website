@@ -36,3 +36,4 @@ describe("Hdeco Commercial Catalog - Data Integrity & Filtering", () => {
     assert.equal(sortedByPrice[sortedByPrice.length - 1].id, 4); // 115000 dzd
   });
 });
+
